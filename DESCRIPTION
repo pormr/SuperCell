@@ -11,6 +11,7 @@ LazyData: true
 LazyDataCompression: xz
 biocViews:
     Software
+Additional_repositories: https://mteleman.github.io/drat
 Imports: 
     igraph,
     RANN,

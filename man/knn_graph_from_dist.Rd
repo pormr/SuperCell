@@ -5,7 +5,7 @@
 \title{Build kNN graph from distance
 (used in \code{"build_knn_graph"})}
 \usage{
-knn_graph_from_dist(D, k = 5, return_neighbors_order = T, mode = "all")
+knn_graph_from_dist(D, k = 5, return_neighbors_order = TRUE, mode = "all")
 }
 \arguments{
 \item{D}{dist matrix or dist object (preferentially)}
