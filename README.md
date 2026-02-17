@@ -3,16 +3,16 @@
 [![License](https://img.shields.io/badge/License-LICENSE-green)](./LICENSE)
 
 
-> ## 🚀 Announcement: SuperCell 2.0
+> ## 🚀 Announcement: SuperCell2.0
 >
 > A major new version of SuperCell is available in the [`supercell-2.0`](../../tree/supercell-2.0) branch.
 >
-> **SuperCell 2.0** introduces substantial improvements, including multimodal metacell identification, a semi-supervised workflow, and deeper integration with the Seurat framework.
+> **SuperCell2.0** introduces substantial improvements, including multimodal metacell identification, a semi-supervised workflow, and deeper integration with the Seurat framework.
 >
-> [`supercell-2.0`](../../tree/supercell-2.0) branch contains the implementation accompanying the SuperCell 2.0 manuscript, currently submitted for publication.  
-> The `master` branch remains the stable release corresponding to SuperCell v1.1 during the evaluation process.
+> [`supercell-2.0`](../../tree/supercell-2.0) branch contains the implementation accompanying the SuperCell2.0 manuscript, currently submitted for publication.  
+> The `master` branch remains the stable release corresponding to SuperCell v1 during the evaluation process.
 >
-> 👉 Access SuperCell 2.0 here:  
+> 👉 Access SuperCell2.0 here:  
 > https://github.com/GfellerLab/SuperCell/tree/supercell-2.0
 >
 > We welcome feedbacks
