@@ -2,6 +2,24 @@
 [1E![DOI](https://img.shields.io/badge/DOI%3A-0.1186/s12859--022--04861--1-brightgreen)](https://doi.org/10.1186/s12859-022-04861-1)
 [![License](https://img.shields.io/badge/License-LICENSE-green)](./LICENSE)
 
+
+> ## 🚀 Announcement: SuperCell2.0
+>
+> A major new version of SuperCell is available in the [`supercell-2.0`](../../tree/supercell-2.0) branch.
+>
+> **SuperCell2.0** introduces substantial improvements, including multimodal metacell identification, a semi-supervised workflow, and deeper integration with the Seurat framework.
+>
+> [`supercell-2.0`](../../tree/supercell-2.0) branch contains the implementation accompanying the SuperCell2.0 manuscript, currently submitted for publication.  
+> The `master` branch remains the stable release corresponding to SuperCell v1 during the evaluation process.
+>
+> 👉 Access SuperCell2.0 here:  
+> https://github.com/GfellerLab/SuperCell/tree/supercell-2.0
+>
+> We welcome feedbacks
+
+
+
+
 # Coarse-graining of large single-cell RNA-seq data into metacells
 
 SuperCell is an R package for coarse-graining large single-cell RNA-seq
