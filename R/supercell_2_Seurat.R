@@ -93,7 +93,7 @@ supercell_2_Seurat <- function(SC.GE, SC, fields = c(),
     meta <- cbind(meta, SC.fields)
   }
   
-  if(packageVersion("Seurat") >= 5) {
+  if(packageVersion("Seurat") >= "5.0.0") {
     withr::local_options(list(Seurat.object.assay.version = "v3"))
   }
 
